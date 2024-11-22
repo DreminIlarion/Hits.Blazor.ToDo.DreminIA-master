@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\muchacho\\Desktop\\project\\Hits.Blazor.ToDo.SheludkovAA-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41D7AF04-09BF-41CC-AF37-DEF896EE1E6B}|TodoServerApp\\TodoServerApp.csproj|c:\\users\\muchacho\\desktop\\project\\hits.blazor.todo.sheludkovaa-master\\todoserverapp\\components\\pages\\tasks.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{41D7AF04-09BF-41CC-AF37-DEF896EE1E6B}|TodoServerApp\\TodoServerApp.csproj|solutionrelative:todoserverapp\\components\\pages\\tasks.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41D7AF04-09BF-41CC-AF37-DEF896EE1E6B}|TodoServerApp\\TodoServerApp.csproj|c:\\users\\muchacho\\desktop\\project\\hits.blazor.todo.sheludkovaa-master\\todoserverapp\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{41D7AF04-09BF-41CC-AF37-DEF896EE1E6B}|TodoServerApp\\TodoServerApp.csproj|solutionrelative:todoserverapp\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41D7AF04-09BF-41CC-AF37-DEF896EE1E6B}|TodoServerApp\\TodoServerApp.csproj|c:\\users\\muchacho\\desktop\\project\\hits.blazor.todo.sheludkovaa-master\\todoserverapp\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{41D7AF04-09BF-41CC-AF37-DEF896EE1E6B}|TodoServerApp\\TodoServerApp.csproj|solutionrelative:todoserverapp\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41D7AF04-09BF-41CC-AF37-DEF896EE1E6B}|TodoServerApp\\TodoServerApp.csproj|c:\\users\\muchacho\\desktop\\project\\hits.blazor.todo.sheludkovaa-master\\todoserverapp\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{41D7AF04-09BF-41CC-AF37-DEF896EE1E6B}|TodoServerApp\\TodoServerApp.csproj|solutionrelative:todoserverapp\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41D7AF04-09BF-41CC-AF37-DEF896EE1E6B}|TodoServerApp\\TodoServerApp.csproj|c:\\users\\muchacho\\desktop\\project\\hits.blazor.todo.sheludkovaa-master\\todoserverapp\\components\\pages\\auth.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{41D7AF04-09BF-41CC-AF37-DEF896EE1E6B}|TodoServerApp\\TodoServerApp.csproj|solutionrelative:todoserverapp\\components\\pages\\auth.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41D7AF04-09BF-41CC-AF37-DEF896EE1E6B}|TodoServerApp\\TodoServerApp.csproj|c:\\users\\muchacho\\desktop\\project\\hits.blazor.todo.sheludkovaa-master\\todoserverapp\\components\\account\\pages\\manage\\personaldata.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{41D7AF04-09BF-41CC-AF37-DEF896EE1E6B}|TodoServerApp\\TodoServerApp.csproj|solutionrelative:todoserverapp\\components\\account\\pages\\manage\\personaldata.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41D7AF04-09BF-41CC-AF37-DEF896EE1E6B}|TodoServerApp\\TodoServerApp.csproj|c:\\users\\muchacho\\desktop\\project\\hits.blazor.todo.sheludkovaa-master\\todoserverapp\\components\\account\\identityrevalidatingauthenticationstateprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41D7AF04-09BF-41CC-AF37-DEF896EE1E6B}|TodoServerApp\\TodoServerApp.csproj|solutionrelative:todoserverapp\\components\\account\\identityrevalidatingauthenticationstateprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tasks.razor",
+              "DocumentMoniker": "C:\\Users\\muchacho\\Desktop\\project\\Hits.Blazor.ToDo.SheludkovAA-master\\TodoServerApp\\Components\\Pages\\Tasks.razor",
+              "RelativeDocumentMoniker": "TodoServerApp\\Components\\Pages\\Tasks.razor",
+              "ToolTip": "C:\\Users\\muchacho\\Desktop\\project\\Hits.Blazor.ToDo.SheludkovAA-master\\TodoServerApp\\Components\\Pages\\Tasks.razor",
+              "RelativeToolTip": "TodoServerApp\\Components\\Pages\\Tasks.razor",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACAAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T20:49:25.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "C:\\Users\\muchacho\\Desktop\\project\\Hits.Blazor.ToDo.SheludkovAA-master\\TodoServerApp\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "TodoServerApp\\Components\\Routes.razor",
+              "ToolTip": "C:\\Users\\muchacho\\Desktop\\project\\Hits.Blazor.ToDo.SheludkovAA-master\\TodoServerApp\\Components\\Routes.razor",
+              "RelativeToolTip": "TodoServerApp\\Components\\Routes.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T20:47:41.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\muchacho\\Desktop\\project\\Hits.Blazor.ToDo.SheludkovAA-master\\TodoServerApp\\Components\\App.razor",
+              "RelativeDocumentMoniker": "TodoServerApp\\Components\\App.razor",
+              "ToolTip": "C:\\Users\\muchacho\\Desktop\\project\\Hits.Blazor.ToDo.SheludkovAA-master\\TodoServerApp\\Components\\App.razor",
+              "RelativeToolTip": "TodoServerApp\\Components\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T20:47:39.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Weather.razor",
+              "DocumentMoniker": "C:\\Users\\muchacho\\Desktop\\project\\Hits.Blazor.ToDo.SheludkovAA-master\\TodoServerApp\\Components\\Pages\\Weather.razor",
+              "RelativeDocumentMoniker": "TodoServerApp\\Components\\Pages\\Weather.razor",
+              "ToolTip": "C:\\Users\\muchacho\\Desktop\\project\\Hits.Blazor.ToDo.SheludkovAA-master\\TodoServerApp\\Components\\Pages\\Weather.razor",
+              "RelativeToolTip": "TodoServerApp\\Components\\Pages\\Weather.razor",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T20:47:34.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Auth.razor",
+              "DocumentMoniker": "C:\\Users\\muchacho\\Desktop\\project\\Hits.Blazor.ToDo.SheludkovAA-master\\TodoServerApp\\Components\\Pages\\Auth.razor",
+              "RelativeDocumentMoniker": "TodoServerApp\\Components\\Pages\\Auth.razor",
+              "ToolTip": "C:\\Users\\muchacho\\Desktop\\project\\Hits.Blazor.ToDo.SheludkovAA-master\\TodoServerApp\\Components\\Pages\\Auth.razor",
+              "RelativeToolTip": "TodoServerApp\\Components\\Pages\\Auth.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T20:47:28.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PersonalData.razor",
+              "DocumentMoniker": "C:\\Users\\muchacho\\Desktop\\project\\Hits.Blazor.ToDo.SheludkovAA-master\\TodoServerApp\\Components\\Account\\Pages\\Manage\\PersonalData.razor",
+              "RelativeDocumentMoniker": "TodoServerApp\\Components\\Account\\Pages\\Manage\\PersonalData.razor",
+              "ToolTip": "C:\\Users\\muchacho\\Desktop\\project\\Hits.Blazor.ToDo.SheludkovAA-master\\TodoServerApp\\Components\\Account\\Pages\\Manage\\PersonalData.razor",
+              "RelativeToolTip": "TodoServerApp\\Components\\Account\\Pages\\Manage\\PersonalData.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T20:47:12.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IdentityRevalidatingAuthenticationStateProvider.cs",
+              "DocumentMoniker": "C:\\Users\\muchacho\\Desktop\\project\\Hits.Blazor.ToDo.SheludkovAA-master\\TodoServerApp\\Components\\Account\\IdentityRevalidatingAuthenticationStateProvider.cs",
+              "RelativeDocumentMoniker": "TodoServerApp\\Components\\Account\\IdentityRevalidatingAuthenticationStateProvider.cs",
+              "ToolTip": "C:\\Users\\muchacho\\Desktop\\project\\Hits.Blazor.ToDo.SheludkovAA-master\\TodoServerApp\\Components\\Account\\IdentityRevalidatingAuthenticationStateProvider.cs",
+              "RelativeToolTip": "TodoServerApp\\Components\\Account\\IdentityRevalidatingAuthenticationStateProvider.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T20:46:51.909Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
